@@ -1,2 +1,2 @@
 # LetsGrowMore-tasks
-Contains task's files for the LGM internship
+Contains task1- To Do List files for the LGM internship
